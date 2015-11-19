@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=locs
+comment0.target=void\ setLocationCells(int[])
+comment1.params=stringGuess
+comment1.target=java.lang.String\ checkYourself(java.lang.String)
+numComments=2
